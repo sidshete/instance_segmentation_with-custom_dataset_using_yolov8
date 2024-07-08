@@ -1,0 +1,13 @@
+hyperopt==0.2.7
+matplotlib==3.9.0
+numpy==1.26.4
+opencv-python==4.10.0.84
+pillow==10.3.0
+scipy==1.13.1
+seaborn==0.13.2
+timm
+torch==2.3.1
+torchvision==0.18.1
+tqdm==4.66.4
+ultralytics==8.2.38
+
