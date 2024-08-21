@@ -42,3 +42,10 @@ Step 3. Evaluation(yv8_eval.ipynb)
     b. All the models can also be evaluated on validation dataset and check model performances.
     c. The model can then be finally loaded and can be converted to ONNX format to deploy on the edge devices.
     d. One can make the predictions on test images and compare the inference time in the last module of this notebook.
+
+
+![results](https://github.com/user-attachments/assets/b4574581-74bf-40ea-a892-406f95db68ac)
+
+![val_batch0_labels](https://github.com/user-attachments/assets/57df06b9-dff9-4e87-8d2b-30c2bfa3a017)
+
+
